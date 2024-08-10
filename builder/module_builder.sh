@@ -44,5 +44,5 @@ build_status_module() {
     show_icon=""
   fi
 
-  echo "$show_left_separator$show_icon$show_text$show_right_separator"
+  echo "$show_left_separator$show_text$show_icon$show_right_separator"
 }
